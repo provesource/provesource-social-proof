@@ -28,7 +28,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/provesource/provesource-social-proof",
+    "url": "git+https://github.com/provesource/provesource-social-proof.git",
     "directory": "packages/provesource-social-proof"
   }
 }
