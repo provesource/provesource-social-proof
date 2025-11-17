@@ -1,6 +1,6 @@
 {
   "name": "provesource-social-proof",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Add social proof notifications to your website with ProveSource",
   "main": "index.js",
   "module": "index.js",

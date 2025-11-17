@@ -10,7 +10,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/provesource-social-proof.svg)](https://www.npmjs.com/package/provesource-social-proof)
 [![License](https://img.shields.io/npm/l/provesource-social-proof.svg)](https://www.npmjs.com/package/provesource-social-proof)
 
-[Website](https://provesrc.com) • [Documentation](https://help.provesrc.com) • [Get API Key](https://provesrc.com)
+[Website](https://provesrc.com) • [Documentation](https://help.provesrc.com) • [Get API Key](https://console.provesrc.com/#/install)
 
 </div>
 
@@ -25,10 +25,11 @@ ProveSource is the #1 social proof software trusted by **40,000+ businesses** to
 ### ✨ Features
 
 - 🛒 **Recent Sales Popups** - Show real-time purchase notifications
-- ⭐ **Review Popups** - Display reviews from Google, Facebook, Trustpilot
+- ⭐ **Review Popups** - Display reviews from Google, Capterra, G2 and many more
+- 🔢 **Sales Numbers** - Highlight total purchases, orders, signups, or other important milestones in real-time to build trust and urgency
 - 👥 **Live Visitor Counter** - Show real-time visitors on your site
-- 📊 **Social Counters** - Display followers across social platforms
 - 💬 **Informational Notifications** - Highlight important messages
+- 📊 **Social Counters** - Display followers across social platforms
 - 🎨 **Fully Customizable** - Match your brand perfectly
 - ⚡ **Lightweight** - Fast loading, no performance impact
 - 🔒 **Privacy Compliant** - GDPR & CCPA ready
@@ -101,7 +102,7 @@ Initialize ProveSource social proof notifications on your website.
 
 | Parameter | Type | Required | Description |
 |-----------|------|----------|-------------|
-| `apiKey` | `string` | Yes | Your ProveSource API key (get it from [provesrc.com](https://provesrc.com)) |
+| `apiKey` | `string` | Yes | Your ProveSource API key (get it from [provesrc.com](https://console.provesrc.com)) |
 
 #### Returns
 
@@ -123,8 +124,9 @@ provesource.init('your-api-key-here');
 Once initialized, ProveSource will automatically display:
 
 - ✅ **Recent Sales Notifications** - "John from New York just purchased..."
+- ✅ **Counter Notifications** - "67 people bought this product in the last 24 hours"
 - ✅ **Review Popups** - Showcase your best reviews
-- ✅ **Live Visitor Count** - "127 people are viewing this page"
+- ✅ **Live Visitor Count** - "127 people are browsing this store"
 - ✅ **Social Proof Counters** - Display your social media stats
 - ✅ **Custom Notifications** - Highlight promotions and important info
 
@@ -169,9 +171,8 @@ try {
 ## 🔗 Resources
 
 - 🌐 [Website](https://provesrc.com) - Learn more about ProveSource
-- 📚 [Documentation](https://help.provesrc.com) - Full documentation and guides
-- 🎯 [Get API Key](https://provesrc.com) - Sign up and get your API key
-- 💬 [Support](mailto:support@provesrc.com) - Get help from our team
+- 📚 [Documentation & Support](https://help.provesrc.com) - Full documentation and guides
+- 🎯 [Get API Key](https://console.provesrc.com/#/settings) - Sign up and get your API key
 - 📖 [Case Studies](https://provesrc.com/case-studies) - See real results
 
 ---
@@ -194,18 +195,10 @@ MIT © [ProveSource](https://provesrc.com)
 
 ---
 
-## 💡 Need Help?
-
-- 📧 Email: [support@provesrc.com](mailto:support@provesrc.com)
-- 🌐 Website: [provesrc.com](https://provesrc.com)
-- 📚 Docs: [help.provesrc.com](https://help.provesrc.com)
-
----
-
 <div align="center">
 
 **Made with ❤️ by [ProveSource](https://provesrc.com)**
 
-[Get Started Free](https://provesrc.com) • [View Documentation](https://help.provesrc.com) • [See Examples](https://provesrc.com)
+[Get Started Free](https://provesrc.com) • [View Documentation](https://help.provesrc.com) • [See Examples](https://provesrc.com/features)
 
 </div>
