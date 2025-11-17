@@ -20,6 +20,8 @@
 
 ProveSource is the #1 social proof software trusted by **40,000+ businesses** to boost sales with real-time social proof notifications. Display recent purchases, reviews, visitor counts, and more to build trust and create urgency.
 
+![alt text](https://provesrc.com/wp-content/uploads/2024/09/Main-Site-Hero-2024.webp "Logo Title Text 1")
+
 ### ✨ Features
 
 - 🛒 **Recent Sales Popups** - Show real-time purchase notifications
@@ -53,11 +55,6 @@ Copy and paste this script into your HTML `<head>` or before the closing `</body
 npm install --save provesource-social-proof
 ```
 
-or
-
-```bash
-yarn add provesource-social-proof
-```
 
 ---
 
@@ -82,15 +79,6 @@ function App() {
 }
 
 export default App;
-```
-
-### CommonJS / Node.js
-
-```javascript
-const provesource = require('provesource-social-proof');
-
-// Initialize ProveSource
-provesource.init('your-api-key-here');
 ```
 
 ### ES Modules
